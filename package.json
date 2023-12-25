@@ -1,0 +1,22 @@
+{
+  "name": "vscolor",
+  "displayName": "VSColor",
+  "repository": "https://github.com/chongwish/vscolor",
+  "description": "Color  Theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Breeze",
+        "uiTheme": "vs",
+        "path": "./themes/Breeze-color-theme.json"
+      }
+    ]
+  }
+}
