@@ -13,9 +13,19 @@
   "contributes": {
     "themes": [
       {
+        "label": "Air",
+        "uiTheme": "vs",
+        "path": "./themes/Air-color-theme.json"
+      },
+      {
         "label": "Breeze",
         "uiTheme": "vs",
         "path": "./themes/Breeze-color-theme.json"
+      },
+      {
+        "label": "Cyberhack",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberhack-color-theme.json"
       }
     ]
   }

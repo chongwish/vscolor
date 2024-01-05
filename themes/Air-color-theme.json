@@ -2,16 +2,16 @@
 	"name": "Breeze",
 	"semanticHighlighting": true,
 	"colors": {
-		"editor.background": "#eff0f1",
-		"editor.foreground": "#333333",
-		"activityBar.background": "#eff0f1",
-		"activityBar.foreground": "#333333",
-		"sideBar.background": "#eff0f1",
-		"statusBar.background": "#eff0f1",
-		"statusBar.foreground": "#333333",
-		"statusBarItem.remoteBackground": "#eff0f1",
-		"statusBarItem.remoteForeground": "#333333",
-        "list.activeSelectionIconForeground": "#eff0f1"
+		"editor.background": "#ffffff",
+		"editor.foreground": "#7c7c7c",
+		"activityBar.background": "#ffffff",
+		"activityBar.foreground": "#7c7c7c",
+		"sideBar.background": "#ffffff",
+		"statusBar.background": "#ffffff",
+		"statusBar.foreground": "#7c7c7c",
+		"statusBarItem.remoteBackground": "#ffffff",
+		"statusBarItem.remoteForeground": "#7c7c7c",
+        "list.activeSelectionIconForeground": "#ffffff"
 	},
 	"tokenColors": [
 		{
@@ -326,7 +326,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"fontStyle": "italic underline"
+				"fontStyle": "underline"
 			}
 		},
 		{
@@ -338,7 +338,7 @@
 			],
 			"settings": {
 				"foreground": "#0092e7",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -353,7 +353,7 @@
 			],
 			"settings": {
 				"foreground": "#9400f7",
-				"fontStyle": "italic"
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 			"scope": "entity.name.exception",
 			"settings": {
 				"foreground": "#9400f7",
-				"fontStyle": "italic"
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 			"scope": "entity.name.section",
 			"settings": {
 				"foreground": "#9400f7",
-				"fontStyle": "italic"
+				"fontStyle": "bold"
 			}
 		},
 		{
